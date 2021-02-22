@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RatesConversion/static/css/main.58d909ce.chunk.css",
+    "main.js": "/RatesConversion/static/js/main.4fc591f5.chunk.js",
+    "main.js.map": "/RatesConversion/static/js/main.4fc591f5.chunk.js.map",
+    "runtime-main.js": "/RatesConversion/static/js/runtime-main.95196286.js",
+    "runtime-main.js.map": "/RatesConversion/static/js/runtime-main.95196286.js.map",
+    "static/js/2.eb8c02cb.chunk.js": "/RatesConversion/static/js/2.eb8c02cb.chunk.js",
+    "static/js/2.eb8c02cb.chunk.js.map": "/RatesConversion/static/js/2.eb8c02cb.chunk.js.map",
+    "index.html": "/RatesConversion/index.html",
+    "static/css/main.58d909ce.chunk.css.map": "/RatesConversion/static/css/main.58d909ce.chunk.css.map",
+    "static/js/2.eb8c02cb.chunk.js.LICENSE.txt": "/RatesConversion/static/js/2.eb8c02cb.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RatesConversion/static/media/my-bg.1065af47.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95196286.js",
+    "static/js/2.eb8c02cb.chunk.js",
+    "static/css/main.58d909ce.chunk.css",
+    "static/js/main.4fc591f5.chunk.js"
+  ]
+}
