@@ -46,8 +46,8 @@ console.log((fromCurrency!= null && toCurrency != null))
     
     if (fromCurrency!= null && toCurrency != null){
     
-     
-       fetch ('${BASE_URL}?base${fromCurrency}&symbols=${toCurrency}')
+     const url = "https://api.exchangeratesapi.io/latest?symbols="+toCurrency+"&base="+fromCurrency
+       fetch (url)
       /* '${BASE_URL} ?base${fromCurrency} &symbols=${toCurrency}'
       console.log(a)
         fetch (a)
